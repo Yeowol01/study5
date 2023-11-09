@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yeowo\\Desktop\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\yeowo\\Desktop\\study5\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "C:\\Users\\yeowo\\Desktop\\Program\\Program.csproj",
+      "projectPath": "C:\\Users\\yeowo\\Desktop\\study5\\Program\\Program.csproj",
       "packagesPath": "C:\\Users\\yeowo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yeowo\\Desktop\\Program\\obj\\",
+      "outputPath": "C:\\Users\\yeowo\\Desktop\\study5\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yeowo\\AppData\\Roaming\\NuGet\\NuGet.Config",
