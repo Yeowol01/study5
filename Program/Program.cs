@@ -1,11 +1,12 @@
-﻿namespace Program
-{  
+﻿using System.Runtime.CompilerServices;
 
+namespace Program
+{   
     internal class Program
-    {            
-        static void Main(string[] args)
-        {
-          
-        }
-    }
+    {             
+           static void Main(string[] args)
+           {
+                
+           }
+    }      
 }
