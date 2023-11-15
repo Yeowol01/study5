@@ -1,58 +1,31 @@
 ﻿using System.Runtime.CompilerServices;
 
 namespace Program
-{
-    public delegate void Calculator(int x, int y);
-        
+{        
     internal class Program
-    {         
-        static void Add(int x, int y)
-        {
-            Console.WriteLine("x + y = " + (x + y));
-        }
-
-        static void Substract(int x, int y)
-        {
-            Console.WriteLine("x - y = " + (x - y));
-        }
-
-        static void Multiple(int x, int y)
-        {
-            Console.WriteLine("x * y = " + (x * y));
-        }
-
-        static void Divide(int x, int y)
-        {
-            Console.WriteLine("x / y = " + (x / y));
-        }
-
+    {
         static void Main(string[] args)
         {
-            #region 델리게이트
-            // Calculator calculator;
+            #region SRP 5대 원칙
+            //Monster spider = new Monster("독거미", 10, 100);
 
-            //calculator = Add;
+            //spider.Patrol();
 
-            //calculator(10, 20);
+            //Information information = new Information();
 
-            //calculator = Substract;
-
-            //calculator(10, 20);
+            //information.MonsterInfo(spider);
             #endregion
 
-            #region 델리게이트 체인
-            //calculator = Add;
-            //calculator += Substract;
-            //calculator += Multiple;
-            //calculator += Divide;
+            #region OCP 5대 원칙
+            Marine marine = new Marine();
+            Ghost ghost = new Ghost();
+            Firebet firebet = new Firebet();
 
-            //calculator -= Divide;
+            UnitManager unitManager = new UnitManager();
 
-            //calculator(5, 5);
-            #endregion
-
-            #region base 키워드
-            Wizard wizard = new Wizard();
+            unitManager.Commend(marine);
+            unitManager.Commend(ghost);
+            unitManager.Commend(firebet);
             #endregion
         }
     }      
