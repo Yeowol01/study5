@@ -1,0 +1,15 @@
+C:\Users\yeowo\Desktop\study5\Class 3th\bin\Debug\net6.0\Class 3th.exe
+C:\Users\yeowo\Desktop\study5\Class 3th\bin\Debug\net6.0\Class 3th.deps.json
+C:\Users\yeowo\Desktop\study5\Class 3th\bin\Debug\net6.0\Class 3th.runtimeconfig.json
+C:\Users\yeowo\Desktop\study5\Class 3th\bin\Debug\net6.0\Class 3th.dll
+C:\Users\yeowo\Desktop\study5\Class 3th\bin\Debug\net6.0\Class 3th.pdb
+C:\Users\yeowo\Desktop\study5\Class 3th\obj\Debug\net6.0\Class 3th.csproj.AssemblyReference.cache
+C:\Users\yeowo\Desktop\study5\Class 3th\obj\Debug\net6.0\Class 3th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeowo\Desktop\study5\Class 3th\obj\Debug\net6.0\Class 3th.AssemblyInfoInputs.cache
+C:\Users\yeowo\Desktop\study5\Class 3th\obj\Debug\net6.0\Class 3th.AssemblyInfo.cs
+C:\Users\yeowo\Desktop\study5\Class 3th\obj\Debug\net6.0\Class 3th.csproj.CoreCompileInputs.cache
+C:\Users\yeowo\Desktop\study5\Class 3th\obj\Debug\net6.0\Class 3th.dll
+C:\Users\yeowo\Desktop\study5\Class 3th\obj\Debug\net6.0\refint\Class 3th.dll
+C:\Users\yeowo\Desktop\study5\Class 3th\obj\Debug\net6.0\Class 3th.pdb
+C:\Users\yeowo\Desktop\study5\Class 3th\obj\Debug\net6.0\Class 3th.genruntimeconfig.cache
+C:\Users\yeowo\Desktop\study5\Class 3th\obj\Debug\net6.0\ref\Class 3th.dll

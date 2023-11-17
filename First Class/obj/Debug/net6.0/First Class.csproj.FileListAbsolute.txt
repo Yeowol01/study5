@@ -1,0 +1,15 @@
+C:\Users\yeowo\Desktop\study5\First Class\bin\Debug\net6.0\First Class.exe
+C:\Users\yeowo\Desktop\study5\First Class\bin\Debug\net6.0\First Class.deps.json
+C:\Users\yeowo\Desktop\study5\First Class\bin\Debug\net6.0\First Class.runtimeconfig.json
+C:\Users\yeowo\Desktop\study5\First Class\bin\Debug\net6.0\First Class.dll
+C:\Users\yeowo\Desktop\study5\First Class\bin\Debug\net6.0\First Class.pdb
+C:\Users\yeowo\Desktop\study5\First Class\obj\Debug\net6.0\First Class.csproj.AssemblyReference.cache
+C:\Users\yeowo\Desktop\study5\First Class\obj\Debug\net6.0\First Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeowo\Desktop\study5\First Class\obj\Debug\net6.0\First Class.AssemblyInfoInputs.cache
+C:\Users\yeowo\Desktop\study5\First Class\obj\Debug\net6.0\First Class.AssemblyInfo.cs
+C:\Users\yeowo\Desktop\study5\First Class\obj\Debug\net6.0\First Class.csproj.CoreCompileInputs.cache
+C:\Users\yeowo\Desktop\study5\First Class\obj\Debug\net6.0\First Class.dll
+C:\Users\yeowo\Desktop\study5\First Class\obj\Debug\net6.0\refint\First Class.dll
+C:\Users\yeowo\Desktop\study5\First Class\obj\Debug\net6.0\First Class.pdb
+C:\Users\yeowo\Desktop\study5\First Class\obj\Debug\net6.0\First Class.genruntimeconfig.cache
+C:\Users\yeowo\Desktop\study5\First Class\obj\Debug\net6.0\ref\First Class.dll

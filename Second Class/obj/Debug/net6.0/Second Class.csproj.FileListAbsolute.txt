@@ -1,0 +1,15 @@
+C:\Users\yeowo\Desktop\study5\Second Class\bin\Debug\net6.0\Second Class.exe
+C:\Users\yeowo\Desktop\study5\Second Class\bin\Debug\net6.0\Second Class.deps.json
+C:\Users\yeowo\Desktop\study5\Second Class\bin\Debug\net6.0\Second Class.runtimeconfig.json
+C:\Users\yeowo\Desktop\study5\Second Class\bin\Debug\net6.0\Second Class.dll
+C:\Users\yeowo\Desktop\study5\Second Class\bin\Debug\net6.0\Second Class.pdb
+C:\Users\yeowo\Desktop\study5\Second Class\obj\Debug\net6.0\Second Class.csproj.AssemblyReference.cache
+C:\Users\yeowo\Desktop\study5\Second Class\obj\Debug\net6.0\Second Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeowo\Desktop\study5\Second Class\obj\Debug\net6.0\Second Class.AssemblyInfoInputs.cache
+C:\Users\yeowo\Desktop\study5\Second Class\obj\Debug\net6.0\Second Class.AssemblyInfo.cs
+C:\Users\yeowo\Desktop\study5\Second Class\obj\Debug\net6.0\Second Class.csproj.CoreCompileInputs.cache
+C:\Users\yeowo\Desktop\study5\Second Class\obj\Debug\net6.0\Second Class.dll
+C:\Users\yeowo\Desktop\study5\Second Class\obj\Debug\net6.0\refint\Second Class.dll
+C:\Users\yeowo\Desktop\study5\Second Class\obj\Debug\net6.0\Second Class.pdb
+C:\Users\yeowo\Desktop\study5\Second Class\obj\Debug\net6.0\Second Class.genruntimeconfig.cache
+C:\Users\yeowo\Desktop\study5\Second Class\obj\Debug\net6.0\ref\Second Class.dll

@@ -1,0 +1,5 @@
+C:\Users\yeowo\Desktop\study5\Class 4th\obj\Debug\net6.0\Class 4th.csproj.AssemblyReference.cache
+C:\Users\yeowo\Desktop\study5\Class 4th\obj\Debug\net6.0\Class 4th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeowo\Desktop\study5\Class 4th\obj\Debug\net6.0\Class 4th.AssemblyInfoInputs.cache
+C:\Users\yeowo\Desktop\study5\Class 4th\obj\Debug\net6.0\Class 4th.AssemblyInfo.cs
+C:\Users\yeowo\Desktop\study5\Class 4th\obj\Debug\net6.0\Class 4th.csproj.CoreCompileInputs.cache

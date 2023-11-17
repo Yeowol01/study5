@@ -1,0 +1,15 @@
+C:\Users\yeowo\Desktop\study5\Class 5th\bin\Debug\net6.0\Class 5th.exe
+C:\Users\yeowo\Desktop\study5\Class 5th\bin\Debug\net6.0\Class 5th.deps.json
+C:\Users\yeowo\Desktop\study5\Class 5th\bin\Debug\net6.0\Class 5th.runtimeconfig.json
+C:\Users\yeowo\Desktop\study5\Class 5th\bin\Debug\net6.0\Class 5th.dll
+C:\Users\yeowo\Desktop\study5\Class 5th\bin\Debug\net6.0\Class 5th.pdb
+C:\Users\yeowo\Desktop\study5\Class 5th\obj\Debug\net6.0\Class 5th.csproj.AssemblyReference.cache
+C:\Users\yeowo\Desktop\study5\Class 5th\obj\Debug\net6.0\Class 5th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeowo\Desktop\study5\Class 5th\obj\Debug\net6.0\Class 5th.AssemblyInfoInputs.cache
+C:\Users\yeowo\Desktop\study5\Class 5th\obj\Debug\net6.0\Class 5th.AssemblyInfo.cs
+C:\Users\yeowo\Desktop\study5\Class 5th\obj\Debug\net6.0\Class 5th.csproj.CoreCompileInputs.cache
+C:\Users\yeowo\Desktop\study5\Class 5th\obj\Debug\net6.0\Class 5th.dll
+C:\Users\yeowo\Desktop\study5\Class 5th\obj\Debug\net6.0\refint\Class 5th.dll
+C:\Users\yeowo\Desktop\study5\Class 5th\obj\Debug\net6.0\Class 5th.pdb
+C:\Users\yeowo\Desktop\study5\Class 5th\obj\Debug\net6.0\Class 5th.genruntimeconfig.cache
+C:\Users\yeowo\Desktop\study5\Class 5th\obj\Debug\net6.0\ref\Class 5th.dll
