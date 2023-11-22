@@ -18,7 +18,6 @@ C:\Users\yeowo\Desktop\study5\Program\bin\Debug\net6.0\Program.deps.json
 C:\Users\yeowo\Desktop\study5\Program\bin\Debug\net6.0\Program.runtimeconfig.json
 C:\Users\yeowo\Desktop\study5\Program\bin\Debug\net6.0\Program.dll
 C:\Users\yeowo\Desktop\study5\Program\bin\Debug\net6.0\Program.pdb
-C:\Users\yeowo\Desktop\study5\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
 C:\Users\yeowo\Desktop\study5\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\yeowo\Desktop\study5\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
 C:\Users\yeowo\Desktop\study5\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
@@ -28,3 +27,4 @@ C:\Users\yeowo\Desktop\study5\Program\obj\Debug\net6.0\refint\Program.dll
 C:\Users\yeowo\Desktop\study5\Program\obj\Debug\net6.0\Program.pdb
 C:\Users\yeowo\Desktop\study5\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
 C:\Users\yeowo\Desktop\study5\Program\obj\Debug\net6.0\ref\Program.dll
+C:\Users\yeowo\Desktop\study5\Program\obj\Debug\net6.0\Program.sourcelink.json
